@@ -195,6 +195,21 @@ body {
   line-height: 20px;
 }
 
+.error404 {
+  text-align: center;
+  padding: 40px;
+}
+
+.error404 img {
+  max-width: 500px;
+  width: 100%;
+}
+
+.btn-error {
+  width: 300px;
+  margin-top: 20px;
+}
+
 @media (max-width: 1200px) {
   .container {
     max-width: 930px;
